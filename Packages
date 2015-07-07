@@ -1,0 +1,9 @@
+Origin: dscheng's Repo
+Label: dscheng's Repo
+Suite: stable
+Version: 1.0
+Codename: dscheng
+Architectures: iphoneos-arm
+Components: main
+Description: dscheng's repo
+MD5Sum:
